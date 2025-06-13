@@ -7,7 +7,7 @@ An AI-powered desktop application for predicting stock prices, analyzing news se
 ![TRAFFIC GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBpMmtyeDhpaTk2bWxtdmNpaWNiOHpuODlxeHNybWZ6MWVnNGtpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SaX384PjtDl2U/giphy.gif)
 
 </div>
----
+
 
 ## 🚀 Features
 
@@ -53,19 +53,24 @@ An AI-powered desktop application for predicting stock prices, analyzing news se
 <details>
 <summary>Prediction Tab</summary>
 
-![Prediction Tab](screenshots/prediction_tab.png)
+![Prediction Tab](https://github.com/user-attachments/assets/c9c11511-de63-497b-9bf3-d66023caaba8)
+
+
 </details>
 
 <details>
 <summary>Visualization Tab</summary>
 
-![Visualization Tab](screenshots/visualization_tab.png)
+![Visualization Tab](https://github.com/user-attachments/assets/a2a786ae-f37c-42d3-87ab-4c17cf0490fc)
+
 </details>
 
 <details>
 <summary>Portfolio Tab</summary>
 
-![Portfolio Tab](screenshots/portfolio_tab.png)
+![Portfolio Tab](https://github.com/user-attachments/assets/8ae6d2ae-d8da-4e77-a092-ca7ad2edc770)
+
 </details>
+
 
 ---
