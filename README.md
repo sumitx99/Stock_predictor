@@ -8,7 +8,6 @@ An AI-powered desktop application for predicting stock prices, analyzing news se
 
 </div>
 
-
 ## 🚀 Features
 
 - 🔍 **Stock Prediction**
